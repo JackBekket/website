@@ -21,6 +21,7 @@ These are links to some of the IPFS repositories.
 - github: [github.com/ipfs/support](https://github.com/ipfs/support) for issues with getting ipfs up and running.
 - github: [github.com/ipfs/go-ipfs](https://github.com/ipfs/go-ipfs) for the go-ipfs implementation.
 - github: [github.com/ipfs/faq](https://github.com/ipfs/faq) for questions you might have about IPFS.
+- github: [github.com/ipfs/reading-list](https://github.com/ipfs/reading-list) for apers to read to understand IPFS.
 - github: [github.com/ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) an [awesome-*](https://github.com/sindresorhus/awesome) list of lists to awesome IPFS resources, tools, and applications built on IPFS.
 - IRC: [#ipfs on chat.freenode.net](irc://chat.freenode.net/ipfs) for live help + some dev discussions ([Logs](https://botbot.me/freenode/ipfs/))
 - Google Group: [ipfs-users@groups.google.com](https://groups.google.com/forum/#!forum/ipfs-users)
